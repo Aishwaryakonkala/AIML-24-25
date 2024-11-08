@@ -6,3 +6,4 @@
 6. #(aiml 0.6) (https://github.com/Aishwaryakonkala/AIML-24-25/blob/main/lab_6.ipynb)\
 7. #(aiml 0.7) (https://github.com/Aishwaryakonkala/AIML-24-25/blob/main/lab_7.ipynb)\
 8. #(aiml 0.8) https://github.com/Aishwaryakonkala/AIML-24-25/blob/main/lab_8.ipynb
+9. #(aiml 0.9) https://github.com/Aishwaryakonkala/AIML-24-25/blob/main/lab_9.ipynb
